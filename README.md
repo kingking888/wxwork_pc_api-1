@@ -97,6 +97,5 @@ if __name__ == "__main__":
 
 帮助&支持
 -------------------------
-点击链接加入群聊[WxWorkApi交流群: 970725471](https://jq.qq.com/?_wv=1027&k=yHicylyC)
+添加qq号：  784615627
 
-<img src="./doc/qqgroup.jpg" height="300" />
